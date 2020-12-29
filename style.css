@@ -1,0 +1,17 @@
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black !important;
+}
+
+.vertical {
+    border-right: 5px solid black !important;
+}
+
+.horizontal {
+    border-bottom: 5px solid black !important;
+}
+
+#numButtons {
+    width: 450px !important;
+}
