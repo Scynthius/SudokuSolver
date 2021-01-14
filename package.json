@@ -1,0 +1,24 @@
+{
+  "name": "sudokusolver",
+  "version": "1.0.0",
+  "description": "Polynomial-time algorithm for solving sudoku puzzle.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scynthius/SudokuSolver.git"
+  },
+  "author": "Jonathan Fryman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scynthius/SudokuSolver/issues"
+  },
+  "homepage": "https://github.com/Scynthius/SudokuSolver#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "handlebars": "^4.7.6"
+  }
+}
